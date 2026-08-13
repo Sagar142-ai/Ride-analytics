@@ -1,0 +1,6 @@
+{
+  "name": "Ride Analytics Dashboard",
+  "description": "Enterprise-grade AI Data Analyst platform for Uber ride-hailing datasets with automated profiling, SQL, Pandas analytics, RAG documentation retrieval, and Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
